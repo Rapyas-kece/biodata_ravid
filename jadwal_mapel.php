@@ -16,11 +16,11 @@ $jam_label = [
 ];
 
 $jadwal = [
-  "Senin"  => ["MTK","MTK","SJR","SJR","PABP","PABP","BNG","BNG","BIN","BIN"],
+  "Senin"  => ["MTK","MTK","SJR","PABP","PABP","PABP","BNG","BNG","BIN","BIN"],
   "Selasa" => ["IPAS","IPAS","IPAS","IPAS","PPS","PPS","BJW","BJW","SNM","SNM"],
   "Rabu"   => ["INF","INF","INF","INF","PGD","PGD","KKA","KKA","GIM","GIM"],
-  "Kamis"  => ["POR","POR","SJR","SJR","BNG","BNG","MTK","MTK","BIN","BIN"],
-  "Jumat"  => ["PGD","PGD","IPAS","IPAS","PGD","PGD","","","",""],
+  "Kamis"  => ["POR","POR","POR","SJR","BNG","BNG","MTK","MTK","BIN","BIN"],
+  "Jumat"  => ["PGD","PGD","PGD","PGD","IPAS","IPAS","PGD","PGD","",""],
 ];
 
 // warna tiap mapel: [bg, text]
